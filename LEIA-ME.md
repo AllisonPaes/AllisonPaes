@@ -1,7 +1,7 @@
 # Olá, Eu sou Allison Paes.
 
 ## Sobre Mim
-- 👋 Olá! Sou .[Allison Paes].
+- 👋 Olá! Sou [Allison Paes].
 - 🌍 Moro em [Recife-Pernambuco].
 - 💼 Sou [Desenvolvedor Backend].
 - 🎓 Tenho formação em [Análise e Desenvolvimento de Sistemas] pela [Uninassau].
