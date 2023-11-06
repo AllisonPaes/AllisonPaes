@@ -5,7 +5,7 @@
 - 🌍 Moro em [Recife-Pernambuco].
 - 💼 Sou [Desenvolvedor Backend].
 - 🎓 Tenho formação em [Análise e Desenvolvimento de Sistemas] pela [Uninassau].
-- 🌱 Atualmente estou aprendendo [Python]
+- 🌱 Atualmente estou aprendendo [Python] [C#]
 - 
 ## Habilidades
 - 👨‍💻 [Python]
